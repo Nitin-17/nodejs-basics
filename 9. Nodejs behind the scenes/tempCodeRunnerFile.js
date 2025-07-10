@@ -1,0 +1,1 @@
+= fs.readFileSync(path.join(__dirname, "test.txt"), "utf-8");
